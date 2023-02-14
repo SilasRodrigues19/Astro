@@ -1,0 +1,32 @@
+[
+  {
+    "id": "3f4a4d81-8771-4aa2-9f62-87dfe94c28ee",
+    "title": "Python",
+    "href": "https://www.python.org/",
+    "body": "Python é uma linguagem de programação interpretada, de alto nível e de uso geral."
+  },
+  {
+    "id": "7a52c70c-2a55-4f5b-82a6-80d0be01dfc5",
+    "title": "JavaScript",
+    "href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+    "body": "JavaScript é uma linguagem de programação interpretada, client-side e multi-paradigma."
+  },
+  {
+    "id": "82113145-1c8d-4ea7-a0f4-6c18782c8f06",
+    "title": "Java",
+    "href": "https://www.java.com/",
+    "body": "Java é uma linguagem de programação de propósito geral, orientada a objetos, e desenvolvida pela Sun Microsystems."
+  },
+  {
+    "id": "d5ce7edc-2822-4537-89e5-5ec7e5bb5e5e",
+    "title": "Go",
+    "href": "https://golang.org/",
+    "body": "Go é uma linguagem de programação compilada, concorrente e criada pelo Google em 2009."
+  },
+  {
+    "id": "d4f19af6-ba4e-4ee3-81c7-84659eb9f3a2",
+    "title": "C++",
+    "href": "http://www.cplusplus.com/",
+    "body": "C++ é uma linguagem de programação compilada, orientada a objetos e de uso geral, criada em 1983."
+  }
+]
